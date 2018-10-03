@@ -21,7 +21,7 @@ This can be configured as follows:
     ],
 ```  
 Note: 
-- The above is merely an example that picks all files ending with ```_test.p``` to be treated as test files. 
+- The above is merely an example that picks all files ending with ```_test.py``` to be treated as test files. 
 - Further details and values of this config item can be found [here](https://docs.python.org/2/library/unittest.html#cmdoption-unittest-discover-p).  
 
 
